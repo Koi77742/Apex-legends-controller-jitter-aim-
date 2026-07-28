@@ -1,0 +1,18 @@
+AccentColor: '#ff007f'
+ActivationDelay: 0
+AimAssist: 100
+AimControl: Left Trigger (LT / L2)
+ControllerGuid: None
+Down: 30
+Dz: 3
+Left: 25
+OutputMode: Standard Windows (1PC)
+Right: 25
+ShootControl: Right Trigger (RT / R2)
+Speed: 5
+StickDeadzone: 4
+StickSensitivity: 195
+Toggle1: None
+Toggle2: None
+Up: 25
+script_enabled: true

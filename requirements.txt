@@ -1,0 +1,5 @@
+pygame==2.6.1
+PyYAML==6.0.3
+PySide6_Essentials==6.11.1
+shiboken6==6.11.1
+pyinstaller==6.21.0
