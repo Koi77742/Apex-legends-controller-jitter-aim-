@@ -1,8 +1,10 @@
 # Apex-legends-controller-jitter-aim
+*project was made on python 3.12 make sure to install python to run this project*
 
-1- Pip install requirements.txt
-2- run build.bat as admin 
-3- use the settings in the pictures below for a base 
+1- cd your-path 
+2- Pip install requirements.txt
+3- run build.bat as admin 
+4- use the settings in the pictures below for a base 
 
 discord.gg/vynex
 https://discord.com/invite/vynex
