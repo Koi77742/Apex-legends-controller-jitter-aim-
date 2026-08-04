@@ -2,7 +2,7 @@
 *project was made on python 3.12 make sure to install python to run this project*
 
 1- cd your-path 
-2- Pip install requirements.txt
+2- python -m pip install -r requirements.txt
 3- run build.bat as admin 
 4- use the settings in the pictures below for a base 
 
